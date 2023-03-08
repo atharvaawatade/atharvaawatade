@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **atharvaawatade02@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/tu452e](https://rb.gy/tu452e)
+- 📄 Know about my experiences [https://rb.gy/w5qjw1](https://rb.gy/w5qjw1)
 
 - ⚡ Fun fact **I believe that a good design can make me happy!🎨🫣**
 
