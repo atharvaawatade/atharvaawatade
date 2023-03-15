@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Flutter,UI/UX**
 
-- 📫 How to reach me **atharvaawatade02@gmail.com**
+- 📫 How to reach me **atharvaawatade.official@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/w5qjw1](https://rb.gy/w5qjw1)
+- 📄 Know about my experiences [https://atharvaawatade.github.io/](https://atharvaawatade.github.io/)
 
 - ⚡ Fun fact **I believe that a good design can make me happy!🎨🫣**
 
