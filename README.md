@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World, I'm Atharva Awatade!
 
 <div align="center">
-  <img src="/api/placeholder/850/300" alt="Banner showing Generative AI & Machine Learning" />
+  ![github ](https://github.com/user-attachments/assets/c987304e-237c-47a8-b80a-16e458bd6d5e)
 </div>
 
 ## 🚀 About Me
