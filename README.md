@@ -1,8 +1,6 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World, I'm Atharva Awatade!
 
-<div align="center">
-  https://github.com/user-attachments/assets/c987304e-237c-47a8-b80a-16e458bd6d5e
-</div>
+![github ](https://github.com/user-attachments/assets/8436b67f-65e5-457b-83e7-d87bc88eda16)
 
 ## 🚀 About Me
 
